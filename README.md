@@ -2,7 +2,6 @@
 
 ### About Me
 - 😄 Developing applications meaningful to me and that help people with real problems
-- 🎓 Graduated from Fullstack Academy and Binghamton University
 - 💻 Working on web application for learning and playing the piano
 - 🌱 Learning more about systems design, data structures, and algorithms
 - 💬 Ask me about my experience working with augmented reality!
