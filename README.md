@@ -28,6 +28,6 @@
     <img width='3.5%' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="mailto:davdli2323@gmail.com" target="_blank" rel="noreferrer" id="email-link">
-    <img width='3.5%' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+    <img height="35px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
   </a>
 </span>
