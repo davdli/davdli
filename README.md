@@ -1,8 +1,11 @@
+## Hi there, I'm David!
+
 ### About Me
-- 😄 Developing applications meaningful to me and that help people with real problems
-- 💻 Working on web application for learning and playing the piano
-- 🌱 Learning more about systems design, data structures, and algorithms
-- 💬 Ask me about my experience working with augmented reality!
+- 😄 &nbsp; Developing applications meaningful to me and that help people with real problems.
+- 🛠 &nbsp; Exploring new technologies such as Next.js, GraphQL, and Tailwind CSS.
+- 💻 &nbsp; Working on web application for learning and playing the piano.
+- 🌱 &nbsp; Learning more about systems design, data structures, and algorithms.
+- 💼 &nbsp; Looking for full-time and internship oppurtunities.
 
 ### Tech Stack
 <span>
